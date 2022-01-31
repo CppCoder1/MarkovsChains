@@ -1,0 +1,16 @@
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.exe
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.deps.json
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.runtimeconfig.json
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.runtimeconfig.dev.json
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.dll
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\ref\MarkovChains.dll
+C:\Users\SGoni\source\repos\MarkovChains\bin\Debug\net5.0\MarkovChains.pdb
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.csproj.AssemblyReference.cache
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.AssemblyInfoInputs.cache
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.AssemblyInfo.cs
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.csproj.CoreCompileInputs.cache
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.dll
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\ref\MarkovChains.dll
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.pdb
+C:\Users\SGoni\source\repos\MarkovChains\obj\Debug\net5.0\MarkovChains.genruntimeconfig.cache

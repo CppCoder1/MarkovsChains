@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -9,12 +9,14 @@ namespace MarkovChains
 		static Random rnd = new();
 		static void Main()
 		{
-			string path = @"C:\Users\SGoni\Desktop\chehov.txt";
+			string path = @"path_to_file_with_text";
 			string text = File.ReadAllText(path);
 
 			string[] Words = text.Split(" ");
 			Dictionary<string, Value> TextElements = new();
 
+			Console.Write("Введите максимальное количество слов, которое вы хотели\n бы получить в конечном итоге");
+			int CountOfWords = int.Parse(Console.ReadLine());
 			TextElements.Add(Words[0], new Value());
 
 			for (int i = 1; i < Words.Length; i++)
@@ -44,7 +46,7 @@ namespace MarkovChains
 			string lastWord = Words[0];
 			Console.Write(lastWord + " ");
 			int l = 0;
-			while (l++ < 1000)
+			while (l++ < CountOfWords)
 			{
 				if (TextElements[lastWord].Words.Count == 1)
 				{
